@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ByteStreamSplitter", "ByteStreamSplitter\ByteStreamSplitter.csproj", "{B7E99E50-DCCF-4EB2-B1C6-73D09CDF9654}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersManager", "UsersManager\UsersManager.csproj", "{71FF69E9-32D1-4E29-95FC-3F61A030AE80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7E99E50-DCCF-4EB2-B1C6-73D09CDF9654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E99E50-DCCF-4EB2-B1C6-73D09CDF9654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E99E50-DCCF-4EB2-B1C6-73D09CDF9654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E99E50-DCCF-4EB2-B1C6-73D09CDF9654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71FF69E9-32D1-4E29-95FC-3F61A030AE80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71FF69E9-32D1-4E29-95FC-3F61A030AE80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71FF69E9-32D1-4E29-95FC-3F61A030AE80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71FF69E9-32D1-4E29-95FC-3F61A030AE80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {163FD236-0F39-4B65-827C-DCB5A504D039}
+	EndGlobalSection
+EndGlobal
